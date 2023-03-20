@@ -1,11 +1,11 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Noniek Sartono # your name (or website title) here
+logo: "/images/noniek.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Undergraduated of Mathematics Major with great interest in learning and developing. 
   <br><br>
-  Second description 
+  Active in organizations activities during college. Skilled in Micosoft Office, Minitab, Canva, and Borland Delphi 7 operation. Hard worker, optimistic, loves to work in a team, and has good communication skills. 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/noniek-wijayanti-sartono-putri-83058926a/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
